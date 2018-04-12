@@ -49,18 +49,25 @@ Methods : A method is a behavior. A class can maintain multiple methods. It is i
 Instance Variables - Each object has its own unique set of instance variables. An object’s state is created by the values assigned to these instance variables
 
 Built-in Types:
+   
     1. Boolean                            bool              Stores either value
                                                             true or false
+							    
     2. Character                          char              Typically a single
                                                             octect
+							    
     3. Integer                            int               The most natural size
                                                             of integer 
+							    
     4. Floating Point                     float             A single-precision
                                                             floating point value
+							    
     5. Double Floating Point              double            A double-precision
                                                             floating point value
+							    
     6. Valueless                          void              Represents the
                                                             absence of type
+							    
     7. Wide Character                     wchar_t           A wide character type
     
 
